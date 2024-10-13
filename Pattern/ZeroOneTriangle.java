@@ -1,7 +1,7 @@
 package Pattern;
 import java.util.Scanner;
 
-public class zeroOneTriangle {
+public class ZeroOneTriangle {
     public static void main(String[] args) {
         
     
