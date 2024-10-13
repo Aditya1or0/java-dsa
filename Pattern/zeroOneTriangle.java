@@ -1,7 +1,7 @@
 package Pattern;
 import java.util.Scanner;
 
-public class pattern9 {
+public class zeroOneTriangle {
     public static void main(String[] args) {
         
     
