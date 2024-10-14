@@ -1,7 +1,7 @@
 package Pattern;
 import java.util.Scanner;
 
-public class pattern14 {
+public class HollowRhombus {
 	private static Scanner sc;
 	
 	public static void main(String[] args) {
