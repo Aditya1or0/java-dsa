@@ -1,7 +1,7 @@
 package Pattern;
 import java.util.Scanner;
 
-public class pattern3 {
+public class RightHalfPyramid {
     public static void main(String[] args){
 
     int n;
