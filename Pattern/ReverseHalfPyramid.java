@@ -1,7 +1,7 @@
 package Pattern;
 import java.util.Scanner;
 
-public class pattern4 {
+public class ReverseHalfPyramid {
     public static void main(String[] args) {
         
     
