@@ -1,7 +1,7 @@
 package Pattern;
 import java.util.Scanner;
 
-public class pattern6 {
+public class NumberIncreasingPyramid {
     public static void main(String[] args) {
         int n;
         try (Scanner s = new Scanner(System.in)) {
