@@ -1,7 +1,7 @@
 package Pattern;
 import java.util.Scanner;
 
-public class pattern8 {
+public class NumberChangingPyramid {
     public static void main(String[] args) {
         
     
